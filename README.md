@@ -7,7 +7,7 @@ I am Sreejith Sivankutty, Deep learning, Machine learning, Data science and Comp
 I’m looking to collaborate on Machine Learning projects.
 Currently finished my Masters degree in Intelligent Systems and Robotics from the University of Essex. 
 
-###🧐 About
+### 🧐 About
 
 
 🏄‍ Community guy who loves being involved in communities and help students grow
@@ -21,12 +21,16 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 👯 And Many More...
 
 
-###📞 Contact me for:
+### 📞Contact me for:
 
 💬 Ask me about anything and everything!
+
 📫 How to reach me: email me to sreejithsrt1@gmail.com
+
 ⚡ Fun fact: I love meeting new people, eating food and travelling!
+
 💬 Ping Me about #AI, #Datascience, #MachineLearning, #ComputerVision, #speaking opportunity, #3D_Design #Robotics, #Ideas and anything you like
+
 
 <!--
 **srt3000/srt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
