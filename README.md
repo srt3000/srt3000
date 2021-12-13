@@ -12,7 +12,7 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 
 🏄‍ Community guy who loves being involved in communities and help students grow
 
-😄 I will usually be a part of hackathons, #Participants and a #Organiser
+😄 I will usually be a part of hackathons, #Participant as well as #Organiser
 
 🔭 I am currently a freelancer, I can help with your projects in Programming, AI and Design (Python, C, C++, 3D Design)
 
@@ -25,7 +25,7 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 
 💬 Ask me about anything and everything!
 
-📫 How to reach me: email me to sreejithsrt1@gmail.com
+📫 How to reach me: email me at sreejithsrt1@gmail.com
 
 ⚡ Fun fact: I love meeting new people, eating food and travelling!
 
