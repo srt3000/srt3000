@@ -35,7 +35,7 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 
 
 
-https://camo.githubusercontent.com/0bec2ff0a1094377e648b5002d2c99b0578f7fe7c48904b795440ed90498cef9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616b7368616d74616e656a6132312673686f775f69636f6e733d74727565
+
 
 <!--
 **srt3000/srt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
