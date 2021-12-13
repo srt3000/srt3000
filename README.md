@@ -7,14 +7,18 @@ I am Sreejith Sivankutty, Deep learning, Machine learning, Data science and Comp
 I’m looking to collaborate on Machine Learning projects.
 Currently finished my Masters degree in Intelligent Systems and Robotics from the University of Essex. 
 
-🧐 About
+##🧐 About
+
+
 🏄‍ Community guy who loves being involved in communities and help students grow
 😄 I will usually be a part of hackathons, #Participants and a #Organiser
 🔭 I am currently a freelancer, I can help with your projects in Programming, AI and Design (Python, C, C++, 3D Design)
 🌱 I love to speak at public events and have been a speaker at many events. 
 👯 And Many More...
 
- Contact me for:
+
+##📞 Contact me for:
+
 💬 Ask me about anything and everything!
 📫 How to reach me: email me to sreejithsrt1@gmail.com
 ⚡ Fun fact: I love meeting new people, eating food and travelling!
