@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**srt3000/srt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 I am Sreejith Sivankutty, Deep learning, Machine learning, Data science and Computer vision enthusiast working on some interesting projects to solve real world problems.
@@ -21,3 +20,5 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 ⚡ Fun fact: I love meeting new people, eating food and travelling!
 💬 Ping Me about #AI, #Datascience, #MachineLearning, #ComputerVision, #speaking opportunity, #3D_Design #Robotics, #Ideas and anything you like
 
+<!--
+**srt3000/srt3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
