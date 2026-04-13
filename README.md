@@ -10,26 +10,15 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 ### 🧐 About
 
 
-🏄‍ Community guy who loves being involved in communities and help students grow
-
-😄 I will usually be a part of hackathons, #Participant as well as #Organiser
 
 🔭 I am currently a freelancer, I can help with your projects in Programming, AI and Design (Python, C, C++, 3D Design)
 
-🌱 I love to speak at public events and have been a speaker at many events. 
-
-👯 And Many More...
 
 
 ### 📞Contact me for:
 
-💬 Ask me about anything and everything!
 
-📫 How to reach me: email me at sreejithsrt1@gmail.com
-
-⚡ Fun fact: I love meeting new people, eating food and travelling!
-
-💬 Ping Me about #AI, #Datascience, #MachineLearning, #ComputerVision, #speaking opportunity, #3D_Design #Robotics, #Ideas and anything you like
+💬 Ping Me about #AI, #Datascience, #MachineLearning, #ComputerVision, #3D_Design #Robotics, #Ideas and anything you like
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
