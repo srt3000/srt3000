@@ -15,9 +15,6 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
  
 
 
