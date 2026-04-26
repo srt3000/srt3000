@@ -11,14 +11,10 @@ Currently finished my Masters degree in Intelligent Systems and Robotics from th
 
 
 
-🔭 I am currently a freelancer, I can help with your projects in Programming, AI and Design (Python, C, C++, 3D Design)
+🔭 I am currently an IT project manager and a Hardware product designer , I can help with your projects in Programming, AI and Design (Python, C, C++, 3D Design, prototyping)
 
 
 
-### 📞Contact me for:
-
-
-💬 Ping Me about #AI, #Datascience, #MachineLearning, #ComputerVision, #3D_Design #Robotics, #Ideas and anything you like
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
